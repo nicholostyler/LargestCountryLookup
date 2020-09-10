@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XtAk2FnVMr6Jd7fLFPa+NaL5MhjmcQ6jzIF824UQUj3sRrORZ69AtFtdnB7ohm4LXo0Jufo2ShKCSVhTslFKtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicholos\\source\\repos\\LargestCountryLookup\\LargestCountryLookup\\LargestCountryLookup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicholos\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\Nicholos\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
